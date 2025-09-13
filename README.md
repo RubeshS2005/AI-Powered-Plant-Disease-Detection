@@ -12,7 +12,7 @@ The system helps farmers identify diseases early, reduce crop loss, minimize pes
 - Promote sustainability by reducing waste, cost, and chemical overuse
 
 📂 Dataset
-- Source: [Kaggle – New Plant Diseases Dataset](https://www.kaggle.com/datasets/samirbhattarai/new-plant-diseases-dataset)
+- Source: [Kaggle – New Plant Diseases Dataset]https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 - Size: ~3 GB (compressed to a mini dataset <25 MB for GitHub)
 - Classes: Multiple crop species (healthy + diseased leaves)
 - Preprocessing: Resizing, normalization, augmentation for robustness
